@@ -1,0 +1,9 @@
+[package]
+name = "arch-perl"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS SigmaOS-arch-perl component - Inspired by Arch Linux and Debian"
+license = "MIT"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-perl"
+
+[dependencies]
