@@ -1,4 +1,4 @@
-use arch_perl::Component;
+use sigmaos_perl::Component;
 
 #[test]
 fn test_component_new_aaa() {

@@ -1,10 +1,10 @@
 [package]
-name = "arch-perl"
+name = "sigmaos-perl"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-perl component - SigmaOS component"
+description = "SigmaOS SigmaOS-perl component - SigmaOS component"
 license = "MIT"
-repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-perl"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-perl"
 
 [dependencies]
 thiserror = "2"

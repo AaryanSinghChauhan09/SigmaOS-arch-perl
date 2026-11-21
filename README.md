@@ -1,6 +1,6 @@
-# SigmaOS-arch-perl
+# SigmaOS-perl
 
-SigmaOS SigmaOS-arch-perl component
+SigmaOS SigmaOS-perl component
 
 - **Category:** Components
 - **Engine:** component

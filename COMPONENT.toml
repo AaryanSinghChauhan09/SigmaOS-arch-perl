@@ -1,9 +1,9 @@
 [component]
-name = "SigmaOS-arch-perl"
+name = "SigmaOS-perl"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "SigmaOS SigmaOS-arch-perl component"
+description = "SigmaOS SigmaOS-perl component"
 upstream = []
 
 [contract]
